@@ -1,0 +1,16 @@
+{
+  "films": [
+    {
+      "titre": "Inception",
+      "genre": "Science-fiction",
+      "duree": 148,
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "titre": "Avatar",
+      "genre": "Aventure",
+      "duree": 162,
+      "image": "https://via.placeholder.com/200"
+    }
+  ]
+}
